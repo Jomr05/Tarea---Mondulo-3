@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Inicial de nombre\Inicial de nombre\bin\Debug\Inicial de nombre.exe.config
+C:\Users\PC\source\repos\Inicial de nombre\Inicial de nombre\bin\Debug\Inicial de nombre.exe
+C:\Users\PC\source\repos\Inicial de nombre\Inicial de nombre\bin\Debug\Inicial de nombre.pdb
+C:\Users\PC\source\repos\Inicial de nombre\Inicial de nombre\obj\Debug\Inicial de nombre.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Inicial de nombre\Inicial de nombre\obj\Debug\Inicial de nombre.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Inicial de nombre\Inicial de nombre\obj\Debug\Inicial de nombre.exe
+C:\Users\PC\source\repos\Inicial de nombre\Inicial de nombre\obj\Debug\Inicial de nombre.pdb
