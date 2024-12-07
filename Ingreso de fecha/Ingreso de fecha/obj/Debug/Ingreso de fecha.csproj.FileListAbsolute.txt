@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Ingreso de fecha\Ingreso de fecha\bin\Debug\Ingreso de fecha.exe.config
+C:\Users\PC\source\repos\Ingreso de fecha\Ingreso de fecha\bin\Debug\Ingreso de fecha.exe
+C:\Users\PC\source\repos\Ingreso de fecha\Ingreso de fecha\bin\Debug\Ingreso de fecha.pdb
+C:\Users\PC\source\repos\Ingreso de fecha\Ingreso de fecha\obj\Debug\Ingreso de fecha.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Ingreso de fecha\Ingreso de fecha\obj\Debug\Ingreso de fecha.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Ingreso de fecha\Ingreso de fecha\obj\Debug\Ingreso de fecha.exe
+C:\Users\PC\source\repos\Ingreso de fecha\Ingreso de fecha\obj\Debug\Ingreso de fecha.pdb
